@@ -56,17 +56,22 @@ Welcome to BringMeFood, the Restaurant Ordering System project! This command-lin
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/byte-bistro.git
-    cd byte-bistro
+    git@github.com:Git-With-Chris/BringMeFood.git
     ```
+    
+2. **Move into Directory:**
 
-2. **Run the program:**
+   ```bash
+   cd BringMeFood
+   ```
+   
+3. **Run the program:**
 
     ```bash
-    python byte_bistro.py
+    python BringMeFood.py
     ```
 
-3. **Follow the on-screen instructions to interact with the system.**
+4. **Follow the on-screen instructions to interact with the system.**
 
 ## Options
 
